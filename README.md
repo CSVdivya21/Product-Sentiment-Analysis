@@ -1,4 +1,4 @@
-# Predicting Product Sentiments
+# Analyzing Product Sentiments
 
 I take a dataset 'amazon_baby.gl' which has reviews and ratings of various popularly purchased baby products from Amazon. Then the following analysis is done using the dataset :-
   1. Build a word count vector for each review of product.
